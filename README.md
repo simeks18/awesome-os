@@ -19,6 +19,7 @@ The goal is to collect all kinds of different open source OSs so people can stud
 * [cavOS](https://github.com/malwarepad/cavOS) - Amd64 operating system in C. Trying to make a full OS, with a simple and readable codebase
 * [Charlotte](https://github.com/charlotte-os/charlotte-core) - CharlotteOS kernel in Rust
 * [ChibiOS](http://www.chibios.org/) - a complete development environment for embedded applications including RTOS, an HAL, peripheral drivers, support files and tools
+* [ChromeOS] (https://source.chromium.org/chromiumos/chromiumos-kernel) - A lightweight cloud-based operating system developed by Google. Uses Google Chrome web browse as primary interface.
 * [Clive](https://lsub.org/ls/clive.html) - A unikernel OS inspired by Plan9 and Nix developed at *Universidad Rey Juan Carlos of Madrid*
 * [Cyjon](https://github.com/CorruptedByCPU/Cyjon/) - pure x64 assembly language operating system (related to [Fern-Night](https://github.com/CorruptedByCPU/Fern-Night/) project).
 * [DragonOS](https://github.com/fslongjin/DragonOS) - An x86-64 OS build from scratch.
